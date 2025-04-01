@@ -1,9 +1,9 @@
 Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache
-Exhibit01,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/ICT-Test/Saint Screens/Francis.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit02,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/ICT-Test/Saint Screens/Frassati.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit03,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/ICT-Test/Saint Screens/Lisieux.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit04,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/ICT-Test/Saint Screens/MacKillop.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit05,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/ICT-Test/Saint Screens/More.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit06,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/ICT-Test/Saint Screens/Romero.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit07,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/ICT-Test/Saint Screens/Siena.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit08,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/ICT-Test/Saint Screens/Teresa.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+Exhibit01,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/ICT-Test/SaintScreens/Francis.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+Exhibit02,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/ICT-Test/SaintScreens/Frassati.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+Exhibit03,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/ICT-Test/SaintScreens/Lisieux.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+Exhibit04,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/ICT-Test/SaintScreens/MacKillop.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+Exhibit05,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/ICT-Test/SaintScreens/More.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+Exhibit06,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/ICT-Test/SaintScreens/Romero.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+Exhibit07,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/ICT-Test/SaintScreens/Siena.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+Exhibit08,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/ICT-Test/SaintScreens/Teresa.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
