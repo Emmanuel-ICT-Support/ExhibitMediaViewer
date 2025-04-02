@@ -1,0 +1,16 @@
+Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache
+Exhibit01,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/main/2021ECC.jpg,0:00:10,1:00:00,4/11/2025 15:15,12/31/30 23:59,yes
+Exhibit02,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/refs/heads/main/ICT-Test/SaintScreens/MacKillop.jpeg,12:15:00,1:00:00,4/2/2025 15:10,4/2/2025 15:15,yes
+Exhibit03,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/refs/heads/main/ICT-Test/SaintScreens/MacKillop.jpeg,12:15:00,1:00:00,4/3/2025 15:10,4/3/2025 15:15,yes
+Exhibit04,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/refs/heads/main/ICT-Test/SaintScreens/MacKillop.jpeg,12:15:00,1:00:00,4/4/2025 15:10,4/4/2025 15:15,yes
+Exhibit05,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/refs/heads/main/ICT-Test/SaintScreens/MacKillop.jpeg,12:15:00,1:00:00,4/7/2025 15:10,4/7/2025 15:15,yes
+Exhibit06,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/refs/heads/main/ICT-Test/SaintScreens/MacKillop.jpeg,12:15:00,1:00:00,4/8/2025 10:10,4/8/2025 10:55,yes
+Exhibit07,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/refs/heads/main/ICT-Test/SaintScreens/MacKillop.jpeg,12:15:00,1:00:00,4/9/2025 15:10,4/9/2025 15:15,yes
+Exhibit08,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/refs/heads/main/ICT-Test/SaintScreens/MacKillop.jpeg,12:15:00,1:00:00,4/10/2025 15:10,4/10/2025 15:15,yes
+Exhibit09,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/refs/heads/main/ICT-Test/SaintScreens/MacKillop.jpeg,12:15:00,1:00:00,4/11/2025 15:10,4/11/2025 15:15,yes
+Exhibit10,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/refs/heads/main/ICT-Test/SaintScreens/MacKillop.jpeg,12:15:00,1:00:00,4/15/2025  15:12,4/12/2025 15:15,yes
+Exhibit11,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/refs/heads/main/ICT-Test/SaintScreens/MacKillop.jpeg,12:15:00,1:00:00,4/14/2025  10:10,4/14/2025  10:55,yes
+Exhibit12,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/refs/heads/main/ICT-Test/SaintScreens/MacKillop.jpeg,12:15:00,1:00:00,4/15/2025  15:20,4/15/2025  15:20,yes
+Exhibit13,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/refs/heads/main/ICT-Test/SaintScreens/MacKillop.jpeg,12:15:00,1:00:00,4/16/2025  15:20,4/16/2025  15:20,yes
+Exhibit14,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/refs/heads/main/ICT-Test/SaintScreens/MacKillop.jpeg,12:15:00,1:00:00,4/17/2025  15:20,4/17/2025  15:20,yes
+Exhibit15,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/refs/heads/main/ICT-Test/SaintScreens/MacKillop.jpeg,12:15:00,1:00:00,4/18/2025  15:20,4/18/2025  15:20,yes
