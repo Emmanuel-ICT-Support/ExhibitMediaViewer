@@ -1,6 +1,6 @@
 Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache
 Exhibit01,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/main/ECC.jpg,0:00:10,1:00:00,1/1/25 0:00,12/31/30 23:59,yes
-Exhibit02,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/main/SaintScreens/Teresa.jpeg,0:14:59,1:00:00,4/3/25 11:40,4/3/25 11:55,yes
+Exhibit02,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/main/SaintScreens/Teresa.jpeg,0:14:59,1:00:00,4/3/25 11:50,4/3/25 12:05,yes
 Exhibit03,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/main/SaintScreens/MacKillop.jpeg,0:15:00,1:00:00,4/4/25 10:30,4/4/25 10:45,yes
 Exhibit04,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/main/SaintScreens/MacKillop.jpeg,0:15:00,1:00:00,4/5/25 10:30,4/5/25 10:45,yes
 Exhibit05,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/main/SaintScreens/MacKillop.jpeg,0:15:00,1:00:00,4/6/25 10:30,4/6/25 10:45,yes
