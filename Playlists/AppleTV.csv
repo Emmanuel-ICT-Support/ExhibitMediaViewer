@@ -1,2 +1,3 @@
 Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache
-Exhibit01,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/main/AppleTV.jpg,0:00:10,1:00:00,1/1/2025 0:00,12/31/30 23:59,yes
+
+Exhibit01,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/main/AppleTV.jpeg,0:00:10,1:00:00,1/1/2025 0:00,12/31/30 23:59,yes
