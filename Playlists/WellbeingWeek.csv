@@ -1,4 +1,8 @@
 Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache
 Exhibit01,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/main/WellbeingWeek/MainImage.jpg,0:00:15,1:00:00,1/1/2025 0:00,12/31/30 23:59,yes
 Exhibit02,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/main/WellbeingWeek/01Mon.jpg,0:00:15,1:00:00,1/1/2025 0:00,12/31/30 23:59,yes
-Exhibit03,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/main/WellbeingWeek/04ThuRUOK.jpg,0:00:15,1:00:00,1/1/2025 0:00,12/31/30 23:59,yes
+Exhibit03,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/main/WellbeingWeek/02Tue.jpg,0:00:15,1:00:00,1/1/2025 0:00,12/31/30 23:59,yes
+Exhibit04,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/main/WellbeingWeek/03Wed.jpg,0:00:15,1:00:00,1/1/2025 0:00,12/31/30 23:59,yes
+Exhibit05,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/main/WellbeingWeek/04Thu.jpg,0:00:15,1:00:00,1/1/2025 0:00,12/31/30 23:59,yes
+Exhibit06,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/main/WellbeingWeek/04ThuRUOK.jpg,0:00:15,1:00:00,1/1/2025 0:00,12/31/30 23:59,yes
+Exhibit07,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/main/WellbeingWeek/05Fri.jpg,0:00:15,1:00:00,1/1/2025 0:00,12/31/30 23:59,yes
