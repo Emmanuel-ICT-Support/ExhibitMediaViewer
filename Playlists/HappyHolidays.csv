@@ -1,3 +1,3 @@
 Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache
-Exhibit01,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/main/ECC.jpg,0:00:10,1:00:00,1/1/2025 0:00,12/15/2025  11:59:00 pm,yes
-Exhibit02,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/main/HappyHolidays.jpg,0:00:15,1:00:00,9/26/2025  1:20:00 pm,9/26/2025  4:00:00 pm,yes
+Exhibit01,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/main/ECC.jpg,0:00:10,1:00:00,1/1/2025 0:00,12/31/30 23:59,yes
+Exhibit02,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/main/HappyHolidays.jpg,2:10:00,1:00:00,10/26/2025 13:20,10/26/2025 15:30,yes
