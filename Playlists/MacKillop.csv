@@ -2,3 +2,4 @@ Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache
 Exhibit01,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/main/ECC.jpg,0:00:10,1:00:00,1/1/2025 0:00,12/31/30 23:59,yes
 Exhibit02,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/main/SaintScreens/MacKillop.jpeg,0:45:00,1:00:00,07/21/2026 10:10,07/21/2026 10:55,yes
 Exhibit03,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/main/Fundraiser/Fundrasier-Poster.jpg,0:00:10,1:00:00,07/03/2026 0:00,07/22/2026 11:05,yes
+Exhibit04,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/main/HappyHolidays.jpg,0:00:10,1:00:00,07/03/2026 14:30,07/22/2026 16:00,yes
