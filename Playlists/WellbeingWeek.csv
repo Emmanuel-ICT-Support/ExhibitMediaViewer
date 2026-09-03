@@ -1,3 +1,5 @@
 Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache
-Exhibit01,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/main/WellbeingWeek/Schedule.jpg,0:00:15,1:00:00,9/07/2026 0:00,9/11/2026 23:59,yes
-Exhibit02,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/main/WellbeingWeek/R-U-OK.jpg,0:00:15,1:00:00,9/07/2026 0:00,9/11/2026 23:59,yes
+Exhibit01,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/main/ECC.jpg,0:00:10,1:00:00,1/1/2018 0:00,09/06/2026 23:59,yes
+Exhibit02,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/main/WellbeingWeek/Schedule.jpg,0:00:15,1:00:00,9/07/2026 0:00,9/11/2026 23:59,yes
+Exhibit03,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/main/WellbeingWeek/R-U-OK.jpg,0:00:15,1:00:00,9/07/2026 0:00,9/11/2026 23:59,yes
+Exhibit04,https://raw.githubusercontent.com/Emmanuel-ICT-Support/ExhibitMediaViewer/main/ECC.jpg,0:00:10,1:00:00,9/12/2026 0:00,12/31/30 23:59,yes
